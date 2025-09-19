@@ -16,10 +16,8 @@ El objetivo es permitir que un usuario ingrese una lista de amigos y realice un 
 - [Descripción del Proyecto](#-descripción-del-proyecto)
 - [Estado del Proyecto](#-estado-del-proyecto)
 - [Funcionalidades](#-funcionalidades)
-- [Vista Previa](#-vista-previa)
 - [Acceso al Proyecto](#-acceso-al-proyecto)
 - [Tecnologías Utilizadas](#-tecnologías-utilizadas)
-- [Autor](#-autor)
 - [Licencia](#-licencia)
 
 ---
@@ -45,16 +43,6 @@ Este proyecto pone en práctica conceptos esenciales de **lógica de programaci�
 - **Validar entrada:** si el campo está vacío, muestra un mensaje de error.  
 - **Visualizar lista:** todos los nombres ingresados se muestran en pantalla.  
 - **Sortear amigo:** selecciona un nombre aleatorio de la lista y lo muestra como resultado.  
-
----
-
-## 👀 Vista Previa
-
-- Lista de amigos agregados:  
-  ![Lista de amigos](assets/lista-amigos.png)  
-
-- Sorteo realizado:  
-  ![Resultado del sorteo](assets/sorteo.png)  
 
 ---
 
